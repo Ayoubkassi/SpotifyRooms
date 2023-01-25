@@ -19,7 +19,7 @@ Choose either connect directly with **SpotifyAPI** Login or use our **loginSyste
 
 ---
 
-**Get the Application worked :**
+**Get the Application worked  :**
 
 ```bash
 # run server :
